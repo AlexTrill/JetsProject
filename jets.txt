@@ -1,0 +1,5 @@
+Fighter Jet,F-4 Phantom,1473.00,1750,24000000
+Transport Jet,C-5 Galaxy,541.00,5940,224290000
+Transport Jet,C-17 GlobeMasterIII,590.00,2784,340000000
+Fighter Jet,F-35 Lightning,1200.00,1035,75000000
+Fighter Jet,F-22 Raptor,1500.00,1864,165000000
